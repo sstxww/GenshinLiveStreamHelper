@@ -1,4 +1,30 @@
 <h1 align="center">GenshinLiveStreamHelper</h1>
+
+<p align="center">
+  <img src="docs/assets/readme-banner.svg" alt="Repository overview banner" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="Type" src="https://img.shields.io/badge/Type-Browser_userscript-0EA5E9?style=flat-square" />
+  <img alt="Platforms" src="https://img.shields.io/badge/Platforms-Bilibili_·_Huya_·_Douyu-2563EB?style=flat-square" />
+  <img alt="Install" src="https://img.shields.io/badge/Install-Tampermonkey_compatible-16A34A?style=flat-square" />
+  <img alt="Purpose" src="https://img.shields.io/badge/Purpose-Learning_&_personal_use-64748B?style=flat-square" />
+</p>
+
+<p align="center"><a href="#丨使用方法">使用方法</a> · <a href="#丨功能">功能</a> · <a href="#丨支持平台">支持平台</a></p>
+
+## 一眼看懂
+
+| 维度 | 说明 |
+| --- | --- |
+| 形态 | 通过油猴、脚本猫、暴力猴等用户脚本管理器加载 |
+| 平台 | 哔哩哔哩、虎牙、斗鱼 |
+| 能力 | 展开活动里程碑、优化部分页面、自动尝试领取直播活动码 |
+| 使用预期 | 项目不保证一定成功，运行时应关注菜单配置与浏览器控制台 |
+| 来源提示 | 下方 License、赞助等链接仍指向 `ifeng0188/GenshinLiveStreamHelper` 上游项目 |
+
+---
+
 <h6 align="center">一款用于原神直播活动的抢码助手，支持哔哩哔哩、虎牙、斗鱼多个平台的自动抢码，附带一些页面优化功能</h6>
 <p align="center">
     <a href="https://raw.fastgit.org/ifeng0188/GenshinLiveStreamHelper/main/LICENSE"><img src="https://img.shields.io/github/license/ifeng0188/GenshinLiveStreamHelper" alt="license"></a>
